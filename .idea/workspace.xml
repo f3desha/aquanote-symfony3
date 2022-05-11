@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51b14276-1a03-41a1-a333-1576a9d993ef" name="Changes" comment="" />
+    <list default="true" id="51b14276-1a03-41a1-a333-1576a9d993ef" name="Changes" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Resources/views/genus/show.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/app/Resources/views/genus/show.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AppBundle/Controller/GenusController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppBundle/Controller/GenusController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AppBundle/Entity/Genus.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppBundle/Entity/Genus.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AppBundle/Entity/GenusNote.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppBundle/Entity/GenusNote.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +21,9 @@
     <execution>
       <executable path="composer" />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -74,6 +83,9 @@
     </include_path>
   </component>
   <component name="ProjectId" id="28ccOQ3SCzLoV3841qG3Tu9OvY1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -85,7 +97,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/wamp64/bin/php/php8.0.13/php.exe",
+    "last_opened_file_path": "C:/Users/Developer/dev_projects/env/aqua_note/src/AppBundle/Repository",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -102,6 +114,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Developer\dev_projects\env\aqua_note\src\AppBundle\Repository" />
       <recent name="C:\Users\Developer\dev_projects\env\aqua_note\app\Resources\views\genus" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -132,12 +145,43 @@
       <workItem from="1652202644270" duration="21000" />
       <workItem from="1652202779930" duration="20000" />
       <workItem from="1652282692242" duration="214000" />
-      <workItem from="1652286569671" duration="4534000" />
+      <workItem from="1652286569671" duration="7830000" />
     </task>
+    <task id="LOCAL-00001" summary="Init">
+      <created>1652291686895</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652291686895</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1652291736126</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652291736126</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Init" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
